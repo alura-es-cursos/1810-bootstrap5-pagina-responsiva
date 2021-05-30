@@ -1,0 +1,31 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagen-carrusel {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.fuente-titulo {
+    font-family: 'Pacifico', sans-serif;
+}
+
+.texto-color-especial {
+    color: #0f8d1a!important;
+}
+
+.btn-color-especial {
+    background-color: #0f8d1a;
+    color: white;
+}
+
+.borde-color-especial {
+    border-color: #0f8d1a;
+}
+
+.card-imagen-posicion {
+    height: 200px;
+    object-fit: cover;
+}
